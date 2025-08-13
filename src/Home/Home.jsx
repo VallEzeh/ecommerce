@@ -94,7 +94,7 @@ function Home() {
     </div>
 
     <div className="h-[350px] w-[]100%] bg-gray-300 flex  mt-5 ml-1 rounded-3xl mb-5">
-      <div a></div>
+      <div></div>
       <div></div>
       <div></div>
       <div></div>
